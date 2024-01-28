@@ -2,3 +2,7 @@
 	path = 0xsudip/public
 	url = https://github.com/0xSudip/0xsudip.github.io.git
 	branch = main
+[submodule "rootxsudip/public"]
+	path = rootxsudip/public
+	url = https://github.com/rootxsudip/rootxsudip.github.io.git
+	branch = main
